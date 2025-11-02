@@ -1,3 +1,4 @@
+![logo](https://github.com/patilmanjunath0410/patilmanjunath0410/blob/main/GitHub%20Banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Manjunath Patil</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
