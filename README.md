@@ -6,7 +6,7 @@
 ![logo](https://github.com/patilmanjunath0410/patilmanjunath0410/blob/main/GitHub%20Banner.png.jpg)
 
 <h1 align="center">Hi 👋, I'm Manjunath Patil</h1>
-<h3 align="center">Java Full Stack Developer | Backend-Focused | India 🇮🇳</h3>
+<h3 align="center">Java Full Stack Developer |India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" 
 src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
@@ -20,7 +20,7 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 
 ### 👨‍💻 About Me
 - 🎓 BE Graduate (2026)
-- 💼 Backend Developer Intern → Java Full Stack Intern
+- 💼Java Full Stack Intern And  Backend Developer Intern 
 - 🌱 Currently learning **Java Full Stack Frameworks & AI Tools**
 - 🚀 Interested in building **scalable web applications**
 
@@ -34,6 +34,12 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
   alt="manjunath-patil" height="30" width="40" />
 </a>
 </p>
+
+<p align="left">
+  +91-7676264993
+</p>
+
+
 
 ---
 
