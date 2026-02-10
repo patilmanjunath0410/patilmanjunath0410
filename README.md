@@ -1,6 +1,6 @@
 <!-- Portfolio Section -->
 <p align="center">
-  🌐 <a href="https://patilmanjunath0410.github.io/portfolio/" target="_blank"><b>Visit My Portfolio</b></a>
+   <a href="https://patilmanjunath0410.github.io/portfolio/" target="_blank"><b>Visit My Portfolio</b></a>
 </p>
 
 ![logo](https://github.com/patilmanjunath0410/patilmanjunath0410/blob/main/GitHub%20Banner.png.jpg)
@@ -18,11 +18,11 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 BE Graduate (2026)
-- 💼Java Full Stack Intern And  Backend Developer Intern 
-- 🌱 Currently learning **Java Full Stack Frameworks & AI Tools**
-- 🚀 Interested in building **scalable web applications**
+###  About Me
+- BE Graduate (2026)
+- Java Full Stack Intern And  Backend Developer Intern 
+- Currently learning **Java Full Stack Frameworks & AI Tools**
+- Interested in building **scalable web applications**
 
 ---
 
@@ -43,13 +43,13 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-### 🔹 Backend Development
+###  Backend Development
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> 
 </p>
 
-### 🔹 Frontend Development
+### Frontend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -57,7 +57,7 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </p>
 
-### 🔹 Databases
+### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -65,7 +65,7 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
 </p>
 
-### 🔹 Tools & Cloud
+### Tools & Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
@@ -74,7 +74,7 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img align="left" 
